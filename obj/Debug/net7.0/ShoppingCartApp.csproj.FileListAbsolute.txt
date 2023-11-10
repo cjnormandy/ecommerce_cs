@@ -1,0 +1,14 @@
+C:\Users\cjnor\Documents\projects\ecommerce_cs\bin\Debug\net7.0\ShoppingCartApp.exe
+C:\Users\cjnor\Documents\projects\ecommerce_cs\bin\Debug\net7.0\ShoppingCartApp.deps.json
+C:\Users\cjnor\Documents\projects\ecommerce_cs\bin\Debug\net7.0\ShoppingCartApp.runtimeconfig.json
+C:\Users\cjnor\Documents\projects\ecommerce_cs\bin\Debug\net7.0\ShoppingCartApp.dll
+C:\Users\cjnor\Documents\projects\ecommerce_cs\bin\Debug\net7.0\ShoppingCartApp.pdb
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\ShoppingCartApp.AssemblyInfo.cs
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\ShoppingCartApp.dll
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\refint\ShoppingCartApp.dll
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\ShoppingCartApp.pdb
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\ShoppingCartApp.genruntimeconfig.cache
+C:\Users\cjnor\Documents\projects\ecommerce_cs\obj\Debug\net7.0\ref\ShoppingCartApp.dll
